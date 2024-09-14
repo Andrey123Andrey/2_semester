@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\Zadanie12Tarasenkov\Zadanie12Tarasenkov\obj\Debug\Zadanie12Tarasenkov.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Zadanie12Tarasenkov\Zadanie12Tarasenkov\obj\Debug\Zadanie12Tarasenkov.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Zadanie12Tarasenkov\Zadanie12Tarasenkov\bin\Debug\Zadanie12Tarasenkov.exe
+C:\Users\andre\source\repos\Zadanie12Tarasenkov\Zadanie12Tarasenkov\bin\Debug\Zadanie12Tarasenkov.pdb
+C:\Users\andre\source\repos\Zadanie12Tarasenkov\Zadanie12Tarasenkov\obj\Debug\Zadanie12Tarasenkov.exe
+C:\Users\andre\source\repos\Zadanie12Tarasenkov\Zadanie12Tarasenkov\obj\Debug\Zadanie12Tarasenkov.pdb
