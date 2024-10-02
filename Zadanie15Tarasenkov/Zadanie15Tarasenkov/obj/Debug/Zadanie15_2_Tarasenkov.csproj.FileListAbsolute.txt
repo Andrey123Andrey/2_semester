@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\bin\Debug\Zadanie15_2_Tarasenkov.exe
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\bin\Debug\Zadanie15_2_Tarasenkov.pdb
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.Form1.resources
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.Properties.Resources.resources
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.exe
+C:\Users\andre\source\repos\Zadanie15_2_Tarasenkov\obj\Debug\Zadanie15_2_Tarasenkov.pdb
