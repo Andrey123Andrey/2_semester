@@ -1,0 +1,8 @@
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\bin\Debug\Zadanie16Tarasenkov1.exe
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\bin\Debug\Zadanie16Tarasenkov1.pdb
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\obj\Debug\Zadanie16Tarasenkov1.csprojResolveAssemblyReference.cache
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\obj\Debug\Zadanie16Tarasenkov1.MainForm.resources
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\obj\Debug\Zadanie16Tarasenkov1.Properties.Resources.resources
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\obj\Debug\Zadanie16Tarasenkov1.csproj.GenerateResource.Cache
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\obj\Debug\Zadanie16Tarasenkov1.exe
+c:\users\студент\documents\visual studio 2015\Projects\Zadanie16Tarasenkov1\Zadanie16Tarasenkov1\obj\Debug\Zadanie16Tarasenkov1.pdb
